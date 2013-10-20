@@ -1,4 +1,4 @@
-Practicas 1
+Practica 1
 ===========
 Crear un aplicación y desplegarla en un PaaS. Usar cualquier lenguaje conocido. El objetivo de la aplicación puede estar relacionado con la asignatura y su material, por ejemplo, un interfaz REST al material de la misma o una mini-app para seleccionar PaaS basado en el lenguaje o los requisitos
 
@@ -60,3 +60,6 @@ Una vez realizado esto nos disponemos a realizar la instalacion de Joomla en la 
 ```
 http://joomla-josef267.rhcloud.com/
 ```
+una vez configurado todo ya tendriamos joomla instalado y funcionando perfectamente para montar cualquier tipo de servicio web que necesitaramos.
+En mi caso como ejemplo eh usado un plugin de joomla sobre github que podremos mostrar cualquier tipo de repositorio con sus documentos.
+A parte podremos ver los documentos de los repositorios.
