@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<install type="module" version="1.5">  
+  <name>Hola Mundo</name>  
+  <author>josef267</author>  
+  <creationDate>2013</creationDate>  
+  <license>GPL</license>   
+  <version>0.1</version>  
+  <description>Modulo introduccion de texto</description>  
+  <files>  
+    <filename module="mod_holamundo">mod_holamundo.php</filename>  
+  </files>  
+</install>
