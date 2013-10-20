@@ -3,8 +3,8 @@ Practica 1
 Crear un aplicación y desplegarla en un PaaS. Usar cualquier lenguaje conocido. El objetivo de la aplicación puede estar relacionado con la asignatura y su material, por ejemplo, un interfaz REST al material de la misma o una mini-app para seleccionar PaaS basado en el lenguaje o los requisitos
 
 
-Para la realizacion de esta practica me he basado en usar openshift ya que es una plataforma muy simple de usar y nos facilita el trabajo a la hora de crear la aplicacion.
-Lo primero que haremos sera entrar en la plataforma y crear una aplicacion.En mi casa como lo que quiero montar es un blog basado en jommla creare la aplicacion con PHP y mysql.
+Para la realización de esta practica me he basado en usar openshift ya que es una plataforma muy simple de usar y nos facilita el trabajo a la hora de crear la aplicación.
+Lo primero que haremos sera entrar en la plataforma y crear una aplicación. En mi casa como lo que quiero montar es un blog basado en jommla, creare la aplicación con PHP y mysql.
 Una vez realizado esto no disponemos a trabajar sobre openshift.
 
 Primero deberemos instalar la herramienta de trabajo de openshift:
@@ -60,6 +60,6 @@ Una vez realizado esto nos disponemos a realizar la instalacion de Joomla en la 
 ```
 http://joomla-josef267.rhcloud.com/
 ```
-una vez configurado todo ya tendriamos joomla instalado y funcionando perfectamente para montar cualquier tipo de servicio web que necesitaramos.
+una vez configurado todo ya tendríamos joomla instalado y funcionando perfectamente para montar cualquier tipo de servicio web que necesitáramos.
 En mi caso como ejemplo eh usado un plugin de joomla sobre github que podremos mostrar cualquier tipo de repositorio con sus documentos.
 A parte podremos ver los documentos de los repositorios.
