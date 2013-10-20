@@ -63,3 +63,8 @@ http://joomla-josef267.rhcloud.com/
 una vez configurado todo ya tendríamos joomla instalado y funcionando perfectamente para montar cualquier tipo de servicio web que necesitáramos.
 En mi caso como ejemplo eh usado un plugin de joomla sobre github que podremos mostrar cualquier tipo de repositorio con sus documentos.
 A parte podremos ver los documentos de los repositorios.
+
+Bibliografia
+
+https://albertomolina.wordpress.com/2012/12/26/instalacion-de-joomla-en-openshift/#more-931
+http://extensions.joomla.org/extensions/social-web/social-display/documents-cloud-based/23764?qh=YToxOntpOjA7czo2OiJnaXRodWIiO30%3D
